@@ -1,2 +1,5 @@
 # Mines
- Minesweeper Game
+
+Minesweeper Game. 
+
+![Screenshot](Screenshots/Screenshot.PNG) 
